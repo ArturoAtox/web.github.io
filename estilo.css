@@ -1,0 +1,32 @@
+#Titulo{   
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+.Texto{       
+    color: rgb(255, 255, 255); 
+}
+
+
+div p{
+    color: rgb(71, 250, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.bordes{
+   /* border: 5px chocolate dotted; /*Agregar borde linea separada*/ 
+    border: 10px rgb(255, 255, 255) solid; /*Agregar borde linea continua*/ 
+    text-align: center;
+    border-radius: 40px;
+    border-width: 30px;
+    border-style: double;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
